@@ -26,7 +26,7 @@ struct InsetFactView: View {
                 }.padding(.vertical, 16)
             } //: TABS
             .tabViewStyle(PageTabViewStyle())
-            .frame(minHeight: 148, idealHeight: 168, maxHeight: 180)
+            .frame(minHeight: 148, idealHeight: 168, maxHeight: 196)
             
         } //: BOX
         
