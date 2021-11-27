@@ -7,9 +7,14 @@
 		<key>UIColorName</key>
 		<string>launch-screen-color</string>
 		<key>UIImageName</key>
-		<string>launch-sceen-image</string>
+		<string>launch-screen-image</string>
+		<key>UIImageRespectsSafeAreaInsets</key>
+		<false/>
 		<key>UILaunchScreen</key>
-		<dict/>
+		<dict>
+			<key>Image Name</key>
+			<string></string>
+		</dict>
 	</dict>
 </dict>
 </plist>
